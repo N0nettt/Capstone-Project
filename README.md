@@ -2,8 +2,6 @@
 
 ![Lemon Web Application](LittleLemon/Restaurant/static/restaurant/littlelemon.png)
 
-# Lemon Web Application
-
 ## Description
 
 Lemon Web Application is a dynamic web application built using Django as part of the Meta Backend Developer Specialization. This application allows users to efficiently manage their lemonade stand business by providing features for adding new products and managing inventory. It offers a user-friendly interface tailored for both administrators and regular users.
