@@ -8,6 +8,8 @@ django = "*"
 tzdata = "*"
 mysqlclient = "*"
 djangorestframework = "*"
+djoser = "*"
+django-rest-authtoken = "*"
 
 [dev-packages]
 
