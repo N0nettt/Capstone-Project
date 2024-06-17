@@ -1,6 +1,6 @@
 # Lemon Web Application
 
-![Lemon Web Application](restaurant/static/img/logo.png)
+![Lemon Web Application](Restaurant/static/restaurant/littlelemon.png)
 
 # Lemon Web Application
 
