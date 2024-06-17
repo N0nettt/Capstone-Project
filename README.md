@@ -1,1 +1,3 @@
-"# LittleLemon Restaurant as a capstone project for Meta Back-End Developer Proffessional Certificate course" 
+api/menu/
+api/menu/<int:id>
+restaurant/booking/tables
