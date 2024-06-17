@@ -1,3 +1,3 @@
 api/menu/<br>
-api/menu/<int:id><br>
+api/menu/id<br>
 restaurant/booking/tables<br>
