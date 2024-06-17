@@ -26,7 +26,7 @@ Lemon Web Application is a dynamic web application built using Django as part of
 2. Create and activate a virtual environment.
 3. Install the required dependencies using the following command:
    ```
-   pip install -r requirements.txt
+   pipenv install
    ```
 4. Set up the PostgreSQL database and configure the database settings in `settings.py`.
 5. Apply migrations using the following command:
